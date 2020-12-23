@@ -1,0 +1,48 @@
+
+export const moviesData = [
+    {
+        id: Math.random(),
+        image: "https://i1.sndcdn.com/artworks-000187843172-aegajw-t500x500.jpg",
+        name: "Interstellar",
+        date: "2014",
+        rating: 5,
+        trailer:"www.youtube.com/watch?v=zSWdZVtXT7E&ab_channel=WarnerBros.UK%26Ireland",
+        description: "mayest7a9ech disc enti o aalem kemel yaaref eli houwa ahsen film ",
+    },
+    {
+        id: Math.random(),
+        image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGyDDzYHvg_BMX5bESg8Mky8zb5F89Zwkkd2KoAg1gnJqbQxIY",
+        name: "Peaky Blinders",
+        date: "2013",
+        rating: 5,
+        trailer:"https://www.youtube.com/embed/oVzVdvGIC7U",
+        description:"Peaky Blinders is a gangster family of Irish and Roma origin epic set in Birmingham, England, in 1919, several months after the end of the First World War in November 1918. The story centres on the Peaky Blinders gang and their ambitious and highly cunning boss Tommy Shelby (Cillian Murphy).",
+    },
+    {
+        id: Math.random(),
+        image: "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcshaYnt1JLU5hhqE_nBUa6UKa-jegbNf29AJgdFUe7eln-QWmljLhGywYbC3XX918ICl1KXsM9cs3pr073tkTK_6ozr.jpg?r=0f5",
+        name: "Spartacus",
+        date: "2010",
+        rating: 3,
+        trailer:"https://www.youtube.com/embed/WSWtCLBrrAk",
+        description:"Spartacus was a Thracian gladiator who led a slave revolt with an army numbering in the tens of thousands. He defeated Roman forces over half a dozen times, marching his people up and down the Italian peninsula until he was killed in battle in April 71 B.C",
+    },
+    {
+        id: Math.random(),
+        image: "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+        name: "Game of Thrones",
+        date: "2011",
+        rating: 5,
+        trailer:"https://www.youtube.com/embed/rlR4PJn8b8I",
+        description:"Game of Thrones is an HBO series that tells the story of a medieval country's civil war. The series, which premiered in April 2011, is set on the fictional continents of Westeros and Essos in a world where seasons stretch on for years.",
+    },
+    {
+        id: Math.random(),
+        image: "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY1200_CR107,0,630,1200_AL_.jpg",
+        name: "The Godfather",
+        date: "1972",
+        rating: 4,
+        trailer:"https://www.youtube.com/embed/sY1S34973zA",
+        description:"The story, spanning from 1945 to 1955, chronicles the Corleone family under patriarch Vito Corleone (Brando), focusing on the transformation of one of his sons, Michael Corleone (Pacino), from reluctant family outsider to ruthless mafia boss",
+    },
+];
